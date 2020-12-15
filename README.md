@@ -2,5 +2,4 @@
 
 👨🏻‍💻 I'm Lyane, web developer
 
-🌱 I’m currently learning React & React Native
-
+![cover](https://github.com/lyanedev/lyanedev/blob/main/image1%204.jpeg)
