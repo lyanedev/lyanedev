@@ -1,7 +1,5 @@
 # 👋 Hi there ! I'm Lyane, *Web Developer* 
 
------------------
-
 👨🏻‍💻 Learning `React`, `Node`, `React Native` & `Swift`
 
 🚀 [O'Clock](https://www.oclock.io) alumni
