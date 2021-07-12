@@ -1,9 +1,9 @@
 # 👋 Hi there ! I'm Lyane, *Web Developer* 
 
-👨🏻‍💻 Learning `React`, `Node`, `React Native` & `Swift`
+👨🏻‍💻 `JavaScript`jedi, using `TypeScript`, `React`, `Node`
 
-🚀 [O'Clock](https://www.oclock.io) alumni
+🚀 Learning `React Native` & `Next.js`
 
-💻  Visit my [portfolio website](http://www.lyane.dev/) ! (Currently under construction 🙁)
+💻  Visit my [portfolio website](http://www.lyane.dev/) ! (Currently under development 🥸)
 
 ![cover](https://github.com/lyanedev/lyanedev/blob/main/image1%204.jpeg)
