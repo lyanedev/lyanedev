@@ -1,6 +1,6 @@
 # 👋 Hi there ! I'm Lyane, *Web Developer* 
 
-👨🏻‍💻 `JavaScript`jedi, using `TypeScript`, `React`, `Node`
+👨🏻‍💻 `JavaScript` jedi, using `TypeScript`, `React`, `Node`
 
 🚀 Learning `React Native` & `Next.js`
 
