@@ -1,6 +1,6 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi there ! I'm Lyane, Front End Developer</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi ! I'm Lyane, Front End Developer</b>
 <img src="https://user-images.githubusercontent.com/74155949/145909583-ee28c3bd-2f9f-4605-8ece-9abc06f47152.png"
-    width=250px align=right />
+    width=120px align=left />
 
 
 ## 👨🏻‍💻 What I am currently focusing on...
