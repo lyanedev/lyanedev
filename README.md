@@ -1,4 +1,5 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi ! I'm Lyane</b>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=30&duration=3000&vCenter=true&lines=Front+End+Developer;JavaScript+Jedi;Design+Lover)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74155949/145909583-ee28c3bd-2f9f-4605-8ece-9abc06f47152.png"
