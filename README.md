@@ -45,5 +45,5 @@ Feel free to write me at any of the following places, I'll do my best to respond
     
 ## 📈 My stats...
 
-[![lyane's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyanedev&show_icons=true&hide=stars&theme=radical)](https://github.com/lyanedev/github-readme-stats)
+[![lyane's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyanedev&show_icons=true&theme=radical)](https://github.com/lyanedev/github-readme-stats)
 
