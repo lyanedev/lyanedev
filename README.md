@@ -10,30 +10,26 @@
 🚀 Working on side projects to improve my skills, check out <a style="color: #45b8d8" href="https://github.com/lyanedev?tab=repositories">my repositories</a> !
 
 ## 💻 My stack...
-<p>
- <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
- <img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
- <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" />
- <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,swift" />
+  </a>
 </p>
-<p>
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-    <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-7F2B7B?style=flat-square&logo=SASS&logoColor=white" />
-    <img alt="Styled-Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" />
-    <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-3178C6?style=flat-square&logo=react&logoColor=white" />
- </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass,firebase" />
+  </a>
+</p>
+
 
 ## ⚙️ My tools...
-<p>
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
-<img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-21375A?style=flat-square&logo=figma&logoColor=white" />
-<img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-</p>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma,tailwind" />
+  </a>
+</p>
 
 
 
