@@ -18,7 +18,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,firebase" />
+    <img src="https://skillicons.dev/icons?i=firebase,postgres,sass,tailwind,materialui,emotion" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,figma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma,blender" />
   </a>
 </p>
 
