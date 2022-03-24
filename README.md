@@ -37,7 +37,7 @@
 Feel free to write me at any of the following places, I'll do my best to respond as soon as possible !<br/><br/>
 <a href="https://www.linkedin.com/in/lyanelamara/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hey@lyane.dev" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=#BB001B" /></a>
-<a href="https://wwwlyane.dev" target="_blank"><img alt="Lyane" src="https://img.shields.io/badge/-PortFolio-white?&style=for-the-badge&logo=google&logoColor=black" />
+<a href="https://www.lyane.dev" target="_blank"><img alt="Lyane" src="https://img.shields.io/badge/-PortFolio-white?&style=for-the-badge&logo=google&logoColor=black" />
     
 ## 📈 My stats...
 
